@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <LinearLayout android:id="@+id/main_con"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <!-- 用来放置fragment的位置 -->
+	    <FrameLayout android:id="@+id/fragmentLayout"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:layout_weight="1000"/>
+	    
+	    <!-- 底部导航栏 -->
+		<LinearLayout android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal">
+		    <LinearLayout android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:gravity="center_horizontal"
+		        android:orientation="vertical">
+		        <LinearLayout android:id="@+id/btn_file"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:gravity="center_horizontal"
+		            android:layout_marginTop="@dimen/mainMenuBtnMargin"
+		            android:layout_marginBottom="@dimen/mainMenuBtnMargin"
+		            android:orientation="vertical">
+		            <ImageView android:id="@+id/file_pic"
+		                android:layout_width="@dimen/mainMenuPicSize"
+		                android:layout_height="@dimen/mainMenuPicSize"
+		                android:src="@drawable/file"/>
+		            <TextView android:id="@+id/file_txt"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:text="@string/mainMenuFile"/>
+		        </LinearLayout>
+		    </LinearLayout>
+		    <LinearLayout android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:gravity="center_horizontal"
+		        android:orientation="vertical">
+		        <LinearLayout android:id="@+id/btn_soft"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:gravity="center_horizontal"
+		            android:layout_marginTop="@dimen/mainMenuBtnMargin"
+		            android:layout_marginBottom="@dimen/mainMenuBtnMargin"
+		            android:orientation="vertical">
+		            <ImageView android:id="@+id/soft_pic"
+		                android:layout_width="@dimen/mainMenuPicSize"
+		                android:layout_height="@dimen/mainMenuPicSize"
+		                android:src="@drawable/soft"/>
+		            <TextView android:id="@+id/soft_txt"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:text="@string/mainMenuSoft"/>
+		        </LinearLayout>
+		    </LinearLayout>
+		    <LinearLayout android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:gravity="center_horizontal"
+		        android:orientation="vertical">
+		        <LinearLayout android:id="@+id/btn_me"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:gravity="center_horizontal"
+		            android:layout_marginTop="@dimen/mainMenuBtnMargin"
+		            android:layout_marginBottom="@dimen/mainMenuBtnMargin"
+		            android:orientation="vertical">
+		            <ImageView android:id="@+id/me_pic"
+		                android:layout_width="@dimen/mainMenuPicSize"
+		                android:layout_height="@dimen/mainMenuPicSize"
+		                android:src="@drawable/me"/>
+		            <TextView android:id="@+id/me_txt"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:text="@string/mainMenuMe"/>
+		        </LinearLayout>
+		    </LinearLayout>
+		</LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/main_back"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back_update"
+        android:visibility="gone"
+        android:orientation="vertical"/>
+</RelativeLayout>

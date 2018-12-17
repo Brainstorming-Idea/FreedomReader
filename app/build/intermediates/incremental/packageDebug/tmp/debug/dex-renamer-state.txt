@@ -1,0 +1,4 @@
+#Mon Dec 17 14:40:35 CST 2018
+base.0=F\:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

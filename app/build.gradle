@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '28.0.3'
+    dexOptions{
+        maxProcessCount=2
+        javaMaxHeapSize="2g"
+    }
+    defaultConfig {
+        applicationId "com.wy.fdreader"
+        minSdkVersion 19
+        targetSdkVersion 25
+
+        testApplicationId "com.wy.fdreadertest"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:27.1.1'
+    implementation fileTree(includes: ['*.jar'], dir: 'libs')
+    implementation project(':clfTool')
+}

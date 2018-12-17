@@ -1,0 +1,8 @@
+com.clf.clftool
+drawable ic_launcher
+drawable pickup
+layout activity_main
+string app_name
+string hello_world
+style AppBaseTheme
+style AppTheme

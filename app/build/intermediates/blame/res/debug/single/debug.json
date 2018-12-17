@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seal_ex2.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\seal_ex2.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_share.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_read.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\read.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nopress_style.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\nopress_style.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_open.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\open.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_me.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_right.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_p.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\share_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rgb.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\rgb.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s_open_share.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\s_open_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_soft.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\fragment_soft.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gopage.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\gopage.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_press_style.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\press_style.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_share_p.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\btn_share_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_attrset.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\activity_attrset.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_soft_c.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\soft_c.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back02.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\back02.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_point.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\red_point.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_read_ex3.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\read_ex3.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_saveas_p.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\saveas_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_pickup.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\clfTool\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\pickup.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\5810b49b203908fc07d2d20d9dc75c05\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s_open_return.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\s_open_return.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_update.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\notification_update.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_share.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\btn_share.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_row.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btnpageto.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\selector_btnpageto.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back01.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\back01.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_note_ex2.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\note_ex2.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_lit_parting_line.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\lit_parting_line.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\5810b49b203908fc07d2d20d9dc75c05\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s_open_saveas.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\s_open_saveas.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_editview.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\style_editview.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_myfileselect.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\myfileselect.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_read_ex1.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\read_ex1.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_soft.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\soft.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shopping.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\shopping.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_gopage.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\style_gopage.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_return.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\btn_return.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_openfile.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\activity_openfile.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gopage_p.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\gopage_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_open_btn.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\selector_open_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hand_ex1.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\hand_ex1.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_index.jpg.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\index.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seal.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\seal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_portrait_white.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\portrait_white.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_folder.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_note.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\note.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\5810b49b203908fc07d2d20d9dc75c05\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\5810b49b203908fc07d2d20d9dc75c05\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_update.jpg.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\back_update.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\5810b49b203908fc07d2d20d9dc75c05\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hand_ex2.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\hand_ex2.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_doc.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\doc.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\5810b49b203908fc07d2d20d9dc75c05\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hand.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\hand.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_note_ex1.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\note_ex1.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hand_ex3.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\hand_ex3.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_point_normal.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\point_normal.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_me.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\me.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_saveas.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\saveas.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_view.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\edit_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_read_ex2.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\read_ex2.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_menumain_btn.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\selector_menumain_btn.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\5810b49b203908fc07d2d20d9dc75c05\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_point_focused.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\point_focused.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_vp_item.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\vp_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_return_p.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\btn_return_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\5810b49b203908fc07d2d20d9dc75c05\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_topback.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\file_topback.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seal_ex1.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\seal_ex1.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c4e75b7d1932f3b4602304d96afe6cd0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btnshare.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\selector_btnshare.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_point_selector.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable\\point_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_info.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\file_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_file.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\fragment_file.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_c.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\file_c.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_software_info.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\activity_software_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\think\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\5810b49b203908fc07d2d20d9dc75c05\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_index.xml.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_me_c.png.flat",
+        "source": "F:\\AndroidStudio\\FreedomReader\\app\\src\\main\\res\\drawable-hdpi\\me_c.png"
+    }
+]

@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Mon Dec 17 14:40:35 CST 2018
+2.base=F\:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=lib/armeabi/libAutoSrvSealUtil.so
+2.baseType=DIRECTORY
+3.base=F\:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.set=ASSET
+1.path=classes.dex
+4.base=F\:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+count=5
+2.path=pkcs8_rsa_private_key.pem
+4.set=NATIVE_RESOURCE
+3.path=rsa_public_key.pem
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=lib/arm64-v8a/libAutoSrvSealUtil.so
+1.baseType=DIRECTORY
+0.base=F\:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=F\:\\AndroidStudio\\FreedomReader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
